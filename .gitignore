@@ -1,0 +1,10 @@
+# LabVIEW machine-specific files
+*.lvlps
+*.aliases
+
+# Build output
+builds/
+
+# OS files
+Thumbs.db
+desktop.ini
